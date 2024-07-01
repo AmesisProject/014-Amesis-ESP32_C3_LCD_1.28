@@ -38,6 +38,10 @@ Attention dans type de carte il faut bien choisir ESP32C3 Dev Module même si da
 
 Vous pouvez a présent choisir le bon port COM et televerser le code.
 
+## Shemas Electrique
+
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/s-l1600.jpg" width="1000" />
+
 ## Liens
 
 Ecran :

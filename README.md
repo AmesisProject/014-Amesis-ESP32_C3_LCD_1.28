@@ -9,6 +9,10 @@ Ensuite il faut mettre ce lien dans les gestions de cartes supplémentaires, tou
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 
-IMAGE
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Preference%20IDE%20arduino.png" width="1000" />
 
+Ensuite dans l'onglet "Outils->Type de carte->Gestionnaire de carte" Taper "ESP32" et installer
 
+La Vertion 2.0.6 MEME SI IL EXISTE DES PLUS RECENTE, sinon cela ne fonctionnera pas !!!
+
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/AjoutDeCarte.png" width="1000" />

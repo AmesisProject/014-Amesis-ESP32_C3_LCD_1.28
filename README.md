@@ -29,5 +29,11 @@ La Vertion 2.0.6 MEME SI IL EXISTE DES PLUS RECENTE, sinon cela ne fonctionnera 
 
 <img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/AjoutDeCarte.png" width="1000" />
 
-<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/AjoutDeCarte.png" width="1000" />
+Ensuite dans "Outils" veuillez régler les parammetre de la carte comme suite. 
 
+Attention dans type de carte il faut bien choisir ESP32C3 Dev Module même si dans elle est reperée comme ESP32S3 Dev Module dans le port COM choisis.
+
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/ParametreCarteESP32C3.png" width="1000" />
+
+
+Vous poouvez a présent choisir le bon port COM et televerser le code.

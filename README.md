@@ -1,5 +1,15 @@
 # ESP32_C3_LCD_1.28
 Louttary ESP32-C3 WiFi Bluetooth Development Board Module 1.28 inch Round LCD Display Screen 240X240 IPS Smart Display Screen A
+##Photos
+
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo2.png" width="300" />
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo.png" width="300" />
+
+## Viedos
+
+https://youtube.com/shorts/v-2n1YXnOEw?si=QRJvghyAqLN_8sJP
+
+https://youtube.com/shorts/3pu_u2d-Tx4?si=zI3GUF_M9BrRnhQM
 
 ## Installation
 
@@ -16,3 +26,6 @@ Ensuite dans l'onglet "Outils->Type de carte->Gestionnaire de carte" Taper "ESP3
 La Vertion 2.0.6 MEME SI IL EXISTE DES PLUS RECENTE, sinon cela ne fonctionnera pas !!!
 
 <img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/AjoutDeCarte.png" width="1000" />
+
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/AjoutDeCarte.png" width="1000" />
+

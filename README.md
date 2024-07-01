@@ -1,6 +1,8 @@
 # ESP32_C3_LCD_1.28
-Louttary ESP32-C3 WiFi Bluetooth Development Board Module 1.28 inch Round LCD Display Screen 240X240 IPS Smart Display Screen A
-##Photos
+Comment programmer un écran ESP32 C3 LCD 1.28" Tactile dans l'IDE ARduino
+Voici un exemple de code qui simule une sonde AFR et un cadran RPM vitesse moteur
+
+## Photos
 
 <img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo2.png" width="300" />
 <img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo.png" width="300" />

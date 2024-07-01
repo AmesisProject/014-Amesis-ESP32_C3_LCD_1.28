@@ -3,10 +3,10 @@ Comment programmer un écran ESP32 C3 LCD 1.28" Tactile dans l'IDE ARduino
 Voici un exemple de code qui simule une sonde AFR et un cadran RPM vitesse moteur
 
 ## Photos
-
-<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo2.png" width="300" />
+<P>
+<img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo2.png" width="307" hspace="30" />
 <img src="https://github.com/AmesisProject/014-Amesis-ESP32_C3_LCD_1.28/blob/main/Visuel/Photo.png" width="300" />
-
+</P>
 ## Viedos
 
 https://youtube.com/shorts/v-2n1YXnOEw?si=QRJvghyAqLN_8sJP

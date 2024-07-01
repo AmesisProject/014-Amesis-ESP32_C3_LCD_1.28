@@ -1,3 +1,4 @@
+//AmesisProject Jauge AFR pour esp32-c3-lcd-1.28 Mise au point avec Bolino08C
 
 #define LGFX_USE_V1
 #include "Arduino.h"
